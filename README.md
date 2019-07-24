@@ -6,7 +6,7 @@ See: [https://snack.expo.io/@erdemkeren/react-native-and-flexbox](https://snack.
 
 ## Installation
 
-The application is bootstrapped using create-react-app. Run 
+The application is bootstrapped using create-react-native-app. Run 
 
 ### `npm install && npm start`
 
